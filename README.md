@@ -1,4 +1,4 @@
-# Hey, I'm Rishika 👋
+# Hey, I'm Rishika
 
 I build things, break things, and occasionally figure out why they broke.
 
